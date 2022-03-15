@@ -2,9 +2,12 @@
 Clone the repository.  This repo currently has no 3rd party dependencies, so no additional installation is needed.
 Once cloned, you can run `download_leet_code.py` from the root of the repo to download the problems.
 Afterwards you can run `random_problem.py` to generate problems.
-Tests can be run from the root of the repository.
+
+Tests for solutions can be run from the solutions directory.
+
 It is recommended that you create a git repository inside the solutions directory so you can save your solutions.
 
+# Scripts
 ## download_leet_code.py
 
 ### Description
